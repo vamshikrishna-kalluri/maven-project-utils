@@ -1,0 +1,65 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2024-10-02T04:45:42+00:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 39
+
+Apache Licensed: 39
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    Jenkinsfile
+  AL    README.md
+  AL    pom.xml
+  AL    src/it/aggregator-flat/aggregator/pom.xml
+  AL    src/it/aggregator-flat/invoker.properties
+  AL    src/it/aggregator-flat/project/pom.xml
+  AL    src/it/aggregator-flat/verify.groovy
+  AL    src/it/multimodule-flat/invoker.properties
+  AL    src/it/multimodule-flat/module/pom.xml
+  AL    src/it/multimodule-flat/project/pom.xml
+  AL    src/it/multimodule-flat/submodule/pom.xml
+  AL    src/it/multimodule-flat/verify.groovy
+  AL    src/it/multimodule-hierarchical/invoker.properties
+  AL    src/it/multimodule-hierarchical/module/pom.xml
+  AL    src/it/multimodule-hierarchical/module/submodule/pom.xml
+  AL    src/it/multimodule-hierarchical/pom.xml
+  AL    src/it/multimodule-hierarchical/verify.groovy
+  AL    src/it/multimodule-profile/invoker.properties
+  AL    src/it/multimodule-profile/module/pom.xml
+  AL    src/it/multimodule-profile/pom.xml
+  AL    src/it/multimodule-profile/verify.groovy
+  AL    src/it/settings.xml
+  AL    src/it/setup-plugin/invoker.properties
+  AL    src/it/setup-plugin/pom.xml
+  AL    src/it/setup-plugin/src/main/java/org/apache/maven/shared/project/utils/it/ResolveProjectMojo.java
+  AL    src/it/setup-plugin/src/main/java/org/apache/maven/shared/project/utils/it/ResolveScmMojo.java
+  AL    src/it/setup-plugin/src/main/java/org/apache/maven/shared/project/utils/it/ResolveSiteMojo.java
+  AL    src/it/standalone/invoker.properties
+  AL    src/it/standalone/pom.xml
+  AL    src/it/standalone/verify.groovy
+  AL    src/main/java/org/apache/maven/shared/project/runtime/MavenUtils.java
+  AL    src/main/java/org/apache/maven/shared/project/utils/ProjectUtils.java
+  AL    src/main/java/org/apache/maven/shared/project/utils/ScmUtils.java
+  AL    src/main/java/org/apache/maven/shared/project/utils/SiteUtils.java
+  AL    src/site/resources/download.cgi
+  AL    src/site/xdoc/download.xml.vm
+  AL    src/test/java/org/apache/maven/shared/project/runtime/MavenUtilsTest.java
+  AL    src/test/java/org/apache/maven/shared/project/utils/ProjectUtilsTest.java
+  AL    src/test/java/org/apache/maven/shared/project/utils/ScmUtilsTest.java
+ 
+*****************************************************

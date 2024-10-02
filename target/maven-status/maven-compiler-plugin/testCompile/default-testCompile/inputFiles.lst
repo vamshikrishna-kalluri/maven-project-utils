@@ -1,0 +1,3 @@
+/home/ec2-user/maven-project-utils/src/test/java/org/apache/maven/shared/project/utils/ScmUtilsTest.java
+/home/ec2-user/maven-project-utils/src/test/java/org/apache/maven/shared/project/utils/ProjectUtilsTest.java
+/home/ec2-user/maven-project-utils/src/test/java/org/apache/maven/shared/project/runtime/MavenUtilsTest.java

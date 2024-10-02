@@ -1,0 +1,3 @@
+org/apache/maven/shared/project/utils/ScmUtilsTest.class
+org/apache/maven/shared/project/runtime/MavenUtilsTest.class
+org/apache/maven/shared/project/utils/ProjectUtilsTest.class

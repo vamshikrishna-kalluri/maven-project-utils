@@ -1,0 +1,4 @@
+org/apache/maven/shared/project/utils/SiteUtils.class
+org/apache/maven/shared/project/runtime/MavenUtils.class
+org/apache/maven/shared/project/utils/ProjectUtils.class
+org/apache/maven/shared/project/utils/ScmUtils.class
