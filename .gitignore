@@ -2,7 +2,6 @@
 .project
 .classpath
 .settings/
-.svn/
 bin/
 # Intellij
 *.ipr
